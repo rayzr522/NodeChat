@@ -1,0 +1,13 @@
+{
+  "name": "NodeChat",
+  "version": "1.0.0",
+  "description": "A simple chatroom written with Node and socket.io",
+  "main": "src/index.js",
+  "repository": "https://github.com/Rayzr522/NodeChat",
+  "author": "Rayzr",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}
